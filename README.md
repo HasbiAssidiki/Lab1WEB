@@ -33,10 +33,11 @@ Sebelum Memulai praktikum kita harus menyiapkan text editornya terlebih dahulu,d
  ![P4](https://github.com/HasbiAssidiki/lab1_tag_dasar.html/assets/115614317/9de7d724-92ce-485c-8360-51407e3f0750)  
 
 ### 5.Menambahkan Hyperlink
-- Code HTML
+- Code HTML  
   ![C5](https://github.com/HasbiAssidiki/lab1_tag_dasar.html/assets/115614317/db6c1042-1279-471d-939e-4d15f1c2572e)
-- Tampilan Web
-  ![P5](https://github.com/HasbiAssidiki/lab1_tag_dasar.html/assets/115614317/240eeae6-c2b3-499a-9203-3d4961969a6a)
+  
+- Tampilan Web  
+  ![P5](https://github.com/HasbiAssidiki/lab1_tag_dasar.html/assets/115614317/240eeae6-c2b3-499a-9203-3d4961969a6a)  
 
 ## Menjawab Pertanyaan
 
